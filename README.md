@@ -5,11 +5,13 @@
  / ___/ _ `/ // / / / (_ / // / _ \
 /_/   \_,_/\_,_/_/  \___/\_,_/\___/
 ```
+
 <p align="center">
   <a href=" ">
-    < img src="https://skillicons.dev/icons?i=rust,py,js,git,bash&scale=1.0&theme=dark" />
-  </a >
-</p >
+    <img src="https://skillicons.dev/icons?i=rust,py,js,git,bash&scale=1.0&theme=dark" />
+  </a>
+</p>
+
 <!--
 **mooonxau/mooonxau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
